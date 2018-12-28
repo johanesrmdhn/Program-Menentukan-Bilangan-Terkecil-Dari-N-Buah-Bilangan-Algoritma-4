@@ -1,1 +1,1 @@
-# Program-Menentukan-Bilangan-Terkecil-Dari-N-Buah-Bilangan-Algoritma-4
+# Program Menentukan Bilangan Terkecil Dari N Buah Bilangan Algoritma-4
